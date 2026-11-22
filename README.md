@@ -11,8 +11,10 @@ This project investigates a question central to embedded AI inference engineerin
 
 ## Documentation
 
-- [**Defense presentation (19 pages, Vietnamese)**](docs/defense_slides.pdf) — concise overview of the problem, implementation, benchmarks, and findings.
-- [**Full graduation thesis (96 pages, Vietnamese)**](docs/graduation_thesis.pdf) — methodology, graph and memory analysis, experiments, and limitations.
+- [**Defense presentation (19 pages, Vietnamese)**](https://raw.githubusercontent.com/HoangNT-EmbeddedAI/mcxn947-memory-optimization/main/docs/defense_slides.pdf) — concise overview of the problem, implementation, benchmarks, and findings.
+- [**Full graduation thesis (96 pages, Vietnamese)**](https://raw.githubusercontent.com/HoangNT-EmbeddedAI/mcxn947-memory-optimization/main/docs/graduation_thesis.pdf) — methodology, graph and memory analysis, experiments, and limitations.
+
+These links download the original PDF files directly. If GitHub displays “Unable to render code block” in its PDF preview, use the links above and open the downloaded file in your browser or PDF reader.
 
 This README is an English technical overview for engineers and reviewers. Reported measurements and conclusions are sourced from the thesis; they have **not** been independently re-benchmarked for this README.
 
@@ -182,7 +184,7 @@ These are **future directions**, not features claimed as already implemented.
 
 ### Further Reading
 
-- [Defense presentation — 19 pages](docs/defense_slides.pdf)
-- [Full graduation thesis — 96 pages](docs/graduation_thesis.pdf)
+- [Defense presentation — 19 pages](https://raw.githubusercontent.com/HoangNT-EmbeddedAI/mcxn947-memory-optimization/main/docs/defense_slides.pdf)
+- [Full graduation thesis — 96 pages](https://raw.githubusercontent.com/HoangNT-EmbeddedAI/mcxn947-memory-optimization/main/docs/graduation_thesis.pdf)
 
-*Documents are in Vietnamese. Paths above are relative to the repository root so they work on GitHub when the PDF files are committed under `docs/`.*
+*Documents are in Vietnamese. Direct-download links are provided to avoid GitHub PDF preview errors.*
